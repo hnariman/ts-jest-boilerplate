@@ -4,7 +4,7 @@ Initial setup for project with TS & Jest
 
 ## Configuration steps
 
-- init things:
+### init things
 
 ```bash
 
@@ -12,7 +12,7 @@ git init && yarn init && tsc --init
 
 ```
 
-- then install babel
+### then install babel
 
 ```bash
 
@@ -20,7 +20,7 @@ yarn add -D babel @babel/preset-env @babel/preset-typescript
 
 ```
 
-- update babel.config.js
+### update babel.config.js
 
 ```javascript
 module.exports = {
@@ -31,7 +31,7 @@ module.exports = {
 };
 ```
 
-- install jest & types:
+### install jest & types
 
 ```bash
 
@@ -39,7 +39,7 @@ yarn add -D jest @types/jest
 
 ```
 
-- init jest config
+### init jest config
 
 ```bash
 
@@ -47,8 +47,9 @@ jest init
 
 ```
 
-- create src/index.ts
-- create test/some.test.ts
+### create src/index.ts
+
+### create test/some.test.ts
 
 and can test if everything is running ok by:
 
