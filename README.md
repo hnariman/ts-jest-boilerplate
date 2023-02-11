@@ -4,9 +4,13 @@ Initial setup for project with TS & Jest
 
 ## Configuration steps
 
-- git init
-- yarn init
-- tsc --init
+- init things:
+
+```bash
+
+git init && yarn init && tsc --init
+
+```
 
 - then install babel
 
@@ -18,11 +22,21 @@ yarn add -D babel @babel/preset-env @babel/preset-typescript
 
 - update babel.config.js
 
+```javascript
+module.exports = {
+  presets: [
+    ["@babel/preset-env", { targets: { node: "current" } }],
+    "@babel/preset-typescript",
+  ],
+};
+```
+
 - install jest & types:
 
 ```bash
 
 yarn add -D jest @types/jest
+
 ```
 
 - init jest config
@@ -30,4 +44,16 @@ yarn add -D jest @types/jest
 ```bash
 
 jest init
+
+```
+
+- create src/index.ts
+- create test/some.test.ts
+
+and can test if everything is running ok by:
+
+```bash
+
+yarn jest
+
 ```
