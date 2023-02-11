@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "testing jest with typescript setup",
   "main": "src/index.ts",
-  "repository": "none yet",
+  "repository": "https://github.com/hnariman/ts-jest-boilerplate",
   "author": "Nariman Huseynov <hnariman@gmail.com>",
   "license": "MIT",
   "private": true,
