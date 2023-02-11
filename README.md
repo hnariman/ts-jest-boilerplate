@@ -47,9 +47,14 @@ jest init
 
 ```
 
-### create src/index.ts
+### create files
 
-### create test/some.test.ts
+```bash
+
+mkdir -p src test
+touch src/index.ts test/some.test.ts
+
+```
 
 and can test if everything is running ok by:
 
