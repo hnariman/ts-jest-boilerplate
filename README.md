@@ -57,3 +57,11 @@ and can test if everything is running ok by:
 yarn jest
 
 ```
+
+## OR instead just clone this repo
+
+```bash
+
+git clone git@github.com:hnariman/ts-jest-boilerplate.git
+
+```
