@@ -1,6 +1,11 @@
+
 # Boilperplate for ts + jest
 
 Initial setup for project with TS & Jest
+
+
+github badge:
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 ## Configuration steps
 
