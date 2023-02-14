@@ -3,6 +3,7 @@
 Initial setup for project with TS & Jest
 
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/hnariman/ts-jest-boilerplate/test.yml?style=plastic)
+![Success Unit-Tests](https://img.shields.io/badge/dynamic/json?color=green&label=unit-tests-passed&query=%24.numPassedTests&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhnariman%2Fts-jest-boilerplate%2Fmaster%2Freport.json)
 
 ## Configuration steps
 
