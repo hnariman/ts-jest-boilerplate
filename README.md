@@ -1,11 +1,8 @@
-
 # Boilperplate for ts + jest
 
 Initial setup for project with TS & Jest
 
-
-github badge:
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/hnariman/ts-jest-boilerplate/test.yml?style=plastic)
 
 ## Configuration steps
 
