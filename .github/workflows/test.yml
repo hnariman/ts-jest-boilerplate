@@ -17,5 +17,5 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - run: npm i
       - run: npm run test:ci
-      - run: git -am 'automated badge update'
+      - run: git commit m 'automated badge update'
       - run: git push 
