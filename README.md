@@ -1,10 +1,10 @@
-# Boilperplate for ts + jest
-
-Initial setup for project with TS & Jest
-
 ![ event parameter](https://github.com/github/docs/actions/workflows/test.yml/badge.svg?event=push)
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/hnariman/ts-jest-boilerplate/test.yml?style=plastic)
 ![Success Unit-Tests](https://img.shields.io/badge/dynamic/json?color=green&label=unit-tests-passed&query=%24.numPassedTests&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhnariman%2Fts-jest-boilerplate%2Fmaster%2Freport.json)
+
+# Boilperplate for ts + jest
+
+Initial setup for project with TS & Jest
 
 ## Configuration steps
 
